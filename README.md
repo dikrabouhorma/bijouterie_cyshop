@@ -44,6 +44,15 @@ fonctionnalités. L'usager devra re-éxecuter le programme pour accéder à cell
 
 En revanche le programme ne présente aucun beug pour l'instant :)
 
+### ETAPES POUR LE COMPILER
+- Télecharger les fichiers : main.c, Clients.h, Gestion.h, C.txt et P.txt
+- Mettez tous ces fichiers dans le même dossier.
+- Utilisez un compilateur C pour le compiler et l'exécuter
+
+Note 1 : Programme tester avec succès en "DEVC++"
+
+Note 2 : "C.txt" est le fichier qui contient les informations sur nos Clients, et "P.txt" contient les informations sur les produits
+
 
 
                                                                     Fait le 26/05/2023 à Cergy par 
