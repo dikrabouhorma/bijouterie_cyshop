@@ -32,3 +32,21 @@ bijouterie. Dès que le mode est choisi, il est directement affiché une alerte 
 produits en rupture de stock et les cinq produits dont les stocks sont les plus bas ainsi que leur
 référence. Par la suite deux options se posent, l’utilisateur peut soit rechercher le stock d’un
 produit soit augmenter le stock d’un produit avec facilité.
+
+## Quelles sont les limites du code ?
+
+Comme tout autre code, celui-ci présente certaines limites quant aux utilisateurs. Des limites non 
+nuisantes mais qui pourrait permettre une utilisation plus poussée de la platforme.
+
+- Le programme ne permet pas une certaine continuité de faire plusieurs fonctionnalités simultanément.
+Comme par exemple, si l'utilisateur augmente le stock d'un produit, il ne pourra pas accéder à d'autres
+fonctionnalités. L'usager devra re-éxecuter le programme pour accéder à celles-ci.
+
+En revanche le programme ne présente aucun beug pour l'instant :)
+
+
+
+                                                                    Fait le 26/05/2023 à Cergy par 
+                                                                    Bouhorma Dikra
+                                                                    Benameur Bayane
+                                                                    Ouadah Shaïma
