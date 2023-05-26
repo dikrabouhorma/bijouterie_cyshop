@@ -1,0 +1,3 @@
+mr,x,mrx
+mr,y,mry
+dikra,2,dikra2

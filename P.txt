@@ -1,0 +1,7 @@
+Bracelet,11100,250,2,5
+Boucles,123456,99,1,263
+Collier,456789,500,2,280
+Montre,5555,150,2,0
+Bague,89000,50,1,0
+BagueOR,78999,55,1,0
+BagueDiamant,40005,200,2,2
